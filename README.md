@@ -1,8 +1,15 @@
-# React + Vite
+# Chef AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Chef AI is a web application that helps users generate recipes based on the ingredients they have on hand. It uses the Mistral-7B-Instruct model from Hugging Face to suggest recipes.
 
-Currently, two official plugins are available:
+## Installation
+To install the necessary dependencies, run the following command in both the root and backend directories:
+bash
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+To start the development server, run the following command in the root directory:
+npm run dev
+
+Please note that you will have to generate your own API_key to run this project
