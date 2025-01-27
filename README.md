@@ -14,4 +14,4 @@ npm run dev
 
 Please note that you will have to generate your own API_key to run this project
 
-![Demo](public/image.png)
+![Demo](image.png)
