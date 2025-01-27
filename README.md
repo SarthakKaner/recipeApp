@@ -13,3 +13,5 @@ To start the development server, run the following command in the root directory
 npm run dev
 
 Please note that you will have to generate your own API_key to run this project
+
+![Demo](image.png)
